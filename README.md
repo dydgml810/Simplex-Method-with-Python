@@ -12,3 +12,8 @@ Maximize 문제의 simplex method 예제를 pyhton으로 구현
 - 3x1 + 2x2 + y3 = 18
 
 ![simplex method](https://github.com/user-attachments/assets/9abaeb91-5026-4647-9cb2-eb69f7b11332)
+
+<hr/>
+
+* 파일:
+  + simplex_method.ipynb
