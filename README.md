@@ -1,7 +1,5 @@
 # Simplex-Method-with-Python
 simplex method의 Maximize 예제를 pyhton으로 구현
-<br>
-(본 자료는 경영과학1 강의 교재의 예제를 바탕으로 구현하였습니다.)
 
 # Simplex method
 <br>
